@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Yelee%20Park&fontSize=50)
-
 
 <div align="center">
   
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Yelee%20Park&fontSize=50)
+
 **Hello, World!**
 
 [![Java](http://img.shields.io/badge/Java-red?style=flat-square&logo=Java&logoColor=white&link=https://YeleePark.github.io/)](https://YeleePark.github.io/) [![Boot](http://img.shields.io/badge/Spring%20Boot-orange?style=flat-square&logo=Java&logoColor=white&link=https://YeleePark.github.io/)](https://YeleePark.github.io/)
@@ -11,5 +11,8 @@
 
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-lightgrey?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:yoonp@mz.co.kr) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-lightgrey?style=flat-square&logo=github&link=https://YeleePark.github.io/)](https://YeleePark.github.io/)
-  
-  </div>
+ 
+
+![footer](https://capsule-render.vercel.app/api?section=footer)
+
+</div>
