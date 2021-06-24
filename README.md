@@ -1,7 +1,7 @@
 
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=Yelee%20Park&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=header&text=Yelee%20Park&fontSize=50)
 
 **Hello, World!**
 
@@ -12,7 +12,6 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-lightgrey?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:yoonp@mz.co.kr) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-lightgrey?style=flat-square&logo=github&link=https://YeleePark.github.io/)](https://YeleePark.github.io/)
  
-
-![footer](https://capsule-render.vercel.app/api?section=footer)
+![footer](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=300&section=footer)
 
 </div>
