@@ -4,7 +4,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&section=header&animation=twinkling)
 
 
-### Yelee Park.
+### Seoyoon Park.
   
 [![Java](http://img.shields.io/badge/Java-red?style=flat-square&logo=Java&logoColor=white&link=https://YeleePark.github.io/)](https://YeleePark.github.io/) [![Boot](http://img.shields.io/badge/Spring%20Boot-orange?style=flat-square&logo=Java&logoColor=white&link=https://YeleePark.github.io/)](https://YeleePark.github.io/)
   
