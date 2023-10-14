@@ -1,6 +1,6 @@
 
 <div align="center">
-  
+
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&section=header&animation=twinkling)
 
 
@@ -15,5 +15,8 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-lightgrey?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dev.yelee@gmail.com)](mailto:yoonp@mz.co.kr) [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-lightgrey?style=flat-square&logo=github&link=https://YeleePark.github.io/)](https://yelee.tistory.com//)
  
 ![footer](https://capsule-render.vercel.app/api?type=Waving&color=timeGradient&height=200&section=footer)
+
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=yeleepark&show_icons=true&theme=radical)
 
 </div>
